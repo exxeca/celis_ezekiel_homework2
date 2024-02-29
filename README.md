@@ -1,12 +1,12 @@
-# celis_ezekiel_practice-scaffold
+# celis_ezekiel_homework2
 This repo is our Homework 2 - Debugging Puzzle
 
 
-# hw3_celis_ezekiel_csscascade-selectors---psuedoselectors
+# hw3_celis_ezekiel_homework2_puzzle_debugging
 This repo is for our Homework 2 in 1055 
 
 # Project Name:  
-### - Practice Scaffold 1056
+### - Home Work 2 Puzzle Debugging 1055
  This repo is our Homework 2 about Puzzle Debugging and Java Application
 
 
